@@ -1,4 +1,4 @@
-# twitch-downloader
+# Twitch Downloader
 Python script to fetch and download twitch clips (and thumbnails) via given URLs in txt file
 
 ## Prerequisites
