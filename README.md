@@ -24,8 +24,8 @@ pip install -r requirements.txt
 
 Create a .env file and add the following variables:
 ```
-CLIENT_SECRET = "your_twitch_client_secret"
-CLIENT_ID = "your_twitch_client_id"
+CLIENT_SECRET=your_twitch_client_secret
+CLIENT_ID=your_twitch_client_id
 ```
 
 Fill the clips.txt file with the desired twitch clips URLs:
