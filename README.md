@@ -14,7 +14,7 @@ If you need help getting credentials from Twitch or Google, you may check the fo
 ## Setup
 Clone this repository:
 ```bash
-git clone https://github.com/viniciusenari/automated-twitch-clips-youtube-channel
+git clone https://github.com/macmartins/twitch-downloader
 ```
 
 Install the requirements:
