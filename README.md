@@ -12,6 +12,11 @@ If you need help getting credentials from Twitch or Google, you may check the fo
 - [Twitch API](https://dev.twitch.tv/docs/authentication/register-app)
 
 ## Setup
+Clone this repository:
+```bash
+git clone https://github.com/viniciusenari/automated-twitch-clips-youtube-channel
+```
+
 Install the requirements:
 ```bash
 pip install -r requirements.txt
